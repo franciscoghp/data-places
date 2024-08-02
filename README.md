@@ -16,8 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
 This project render a global map where you can navigate to 3 places inicialy: 
 
 1. Your current location in the world.
