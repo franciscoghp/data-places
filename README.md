@@ -16,12 +16,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-This project render a global map where you can navigate to 3 places inicialy: 
+## This project render a global map where you can navigate to 3 places inicialy: 
 
-1. Your current location in the world.
+##  1. Your current location in the world.
 
-2. London, loaded through mock data included in the app.
+##  2. London, loaded through mock data included in the app.
 
-3. Berlin, loaded through fetching data from a specified mock API.
+## 3. Berlin, loaded through fetching data from a specified mock API.
 
 Feel free to use this applicaction and enjoy.
